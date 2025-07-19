@@ -1,0 +1,14 @@
+[project]
+name = "software_development"
+version = "0.1.0"
+description = "Principles of software development for scientists and researchers"
+authors = [
+    {name = "Dan J Bower", email = "dbower@eaps.ethz.ch"}
+]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+requires-python = ">=3.10,<4.0"
+
+dependencies = [
+    "ipykernel>=6.29.5"
+]
