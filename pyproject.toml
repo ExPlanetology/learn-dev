@@ -1,5 +1,5 @@
 [project]
-name = "software_development"
+name = "learn-dev"
 version = "0.1.0"
 description = "Principles of software development for scientists and researchers"
 authors = [
@@ -11,4 +11,15 @@ requires-python = ">=3.10,<4.0"
 
 dependencies = [
     "ipykernel>=6.29.5"
+]
+
+[project.optional-dependencies]
+docs = [
+    "sphinx-rtd-theme>=3.0.2",
+    "sphinx>=8.1.3",
+    "setuptools>=75.6.0",
+    "doc8>=1.1.2",
+    "nbsphinx>=0.9.5",
+    "pypandoc>=1.14",
+    "nbsphinx-link>=1.3.1",
 ]

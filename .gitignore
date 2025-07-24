@@ -171,3 +171,5 @@ cython_debug/
 .pypirc
 
 uv.lock
+
+docs/bin/pandoc

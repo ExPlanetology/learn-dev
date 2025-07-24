@@ -21,4 +21,14 @@
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": false,
+        "[restructuredtext]": {
+        "editor.formatOnSave": true,
+        "editor.wordWrap": "bounded",
+        "editor.rulers": [
+            79
+        ]
+    },
+    "files.associations": {
+        "*.rst": "restructuredtext"
+    },
 }
