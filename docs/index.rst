@@ -1,5 +1,5 @@
-Principles of software development
-##################################
+Principles of software development for scientists and researchers
+#################################################################
 
 This collection provides foundational principles of software development tailored for scientists and researchers. It offers practical guidance, best practices, and illustrative examples to support effective, maintainable, and reproducible research software.
 
@@ -17,3 +17,11 @@ This collection provides foundational principles of software development tailore
    0_prologue
    1_classes
    2_interfaces
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Additional Reading
+
+   AR_IDE_setup
+   AR_typing
+   AR_documentation

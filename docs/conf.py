@@ -24,7 +24,7 @@ DOCS_DIRECTORY: Path = Path(__file__).resolve().parent
 
 # -- Project information -----------------------------------------------------
 
-project = "Software development"
+project = "Principles of software development"
 copyright = "2025, Dan J. Bower"
 author = "Dan J. Bower"
 
