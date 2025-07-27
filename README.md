@@ -11,3 +11,7 @@ Whilst you're welcome to browse this repository directly, the materials are auto
 [https://learn-dev.readthedocs.io/en/latest/](https://learn-dev.readthedocs.io/en/latest/)
 
 If you'd like to contribute, whether by improving existing content or adding new material, you're warmly encouraged to fork or clone the repository and submit a pull request. Feedback, suggestions, and collaboration are all welcome!
+
+## Acknowledgments
+
+This course was partly inspired by discussions and interactions within the framework of the National Centre of Competence in Research PlanetS supported by the Swiss National Science Foundation under grant 51NF40\_205606.
