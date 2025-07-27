@@ -21,7 +21,7 @@
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": false,
-        "[restructuredtext]": {
+    "[restructuredtext]": {
         "editor.formatOnSave": true,
         "editor.wordWrap": "bounded",
         "editor.rulers": [

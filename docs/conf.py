@@ -112,13 +112,3 @@ def ensure_pandoc_installed(_):
 
 def setup(app):
     app.connect("builder-inited", ensure_pandoc_installed)
-
-
-# TODO: Unsure how this will work when there are multiple notebooks
-# This avoids a warning about unable to copy the examples notebook
-# Path to the existing file in the build output
-# destination_path = Path("_build/html/examples.ipynb")
-
-# Remove the file if it already exists
-# if destination_path.exists():
-#    destination_path.unlink()
