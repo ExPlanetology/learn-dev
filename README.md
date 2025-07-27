@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ExPlanetology/atmodeller/blob/main/docs/logo.png" alt="learn-dev logo" width="300"/>
+<img src="https://github.com/ExPlanetology/learn-dev/blob/main/docs/logo.png" alt="learn-dev logo" width="300"/>
 </p>
 
 # Principles of software development
