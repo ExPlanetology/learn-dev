@@ -14,9 +14,9 @@ This collection provides foundational principles of software development tailore
    :maxdepth: 2
    :caption: Content
 
-   0_prologue
+   prologue
+   0_preliminaries
    1_classes
-   2_interfaces
 
 .. toctree::
    :maxdepth: 2
