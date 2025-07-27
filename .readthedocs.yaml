@@ -19,6 +19,7 @@ build:
          - asdf plugin add uv
          - asdf install uv latest
          - asdf global uv latest
+         - rm -rf _build  # clears previous Sphinx build artifacts
       create_environment:
          - uv venv "${READTHEDOCS_VIRTUALENV_PATH}"
       install:
