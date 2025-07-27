@@ -17,11 +17,12 @@ This collection provides foundational principles of software development tailore
    prologue
    0_preliminaries
    1_classes
+   epilogue
 
 .. toctree::
    :maxdepth: 2
    :caption: Additional Reading
 
-   AR_IDE_setup
-   AR_typing
-   AR_documentation
+   IDE_setup
+   typing
+   documentation
