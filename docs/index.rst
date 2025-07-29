@@ -10,7 +10,7 @@ This collection provides foundational principles of software development tailore
 | Department of Earth and Planetary Sciences
 | ETH Zurich, Switzerland
 
-*learn-dev* is available at https://github.com/ExPlanetology/learn-dev.
+*learn-dev* is available at https://github.com/ExPlanetology/learn-dev
 
 .. toctree::
    :maxdepth: 2
