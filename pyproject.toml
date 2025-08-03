@@ -16,7 +16,7 @@ dependencies = [
 [project.optional-dependencies]
 docs = [
     "sphinx-rtd-theme>=3.0.2",
-    "sphinx<=8.2",
+    "sphinx<=8.2.3",
     "setuptools>=80.9.0",
     "doc8>=2.0.0",
     "nbsphinx>=0.9.7",
