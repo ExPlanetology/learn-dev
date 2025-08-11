@@ -17,8 +17,10 @@ This collection provides foundational principles of software development tailore
    :caption: Content
 
    prologue
-   0_preliminaries
-   1_classes
+   0_basics
+   1_preliminaries
+   2_classes
+   3_interfaces
    epilogue
 
 .. toctree::
