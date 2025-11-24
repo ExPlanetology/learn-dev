@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://github.com/ExPlanetology/learn-dev/blob/main/docs/logo.png" alt="learn-dev logo" width="300"/>
+<img src="https://raw.githubusercontent.com/ExPlanetology/learn-dev/main/docs/logo.png" alt="learn-dev logo" width="300"/>
 </p>
 
-# Principles of software development for scientists and researchers
+# Build Better Software
 
 This collection introduces foundational principles of software development, specifically tailored for scientists and researchers. It provides practical guidance, best practices, and illustrative examples to help you develop effective, maintainable, and reproducible research software.
 

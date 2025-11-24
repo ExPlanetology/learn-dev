@@ -24,9 +24,9 @@ DOCS_DIRECTORY: Path = Path(__file__).resolve().parent
 
 # -- Project information -----------------------------------------------------
 
-project = "Principles of software development"
+project = "Build Better Software"
 copyright = "2025, Dan J. Bower"
-author = "Dan J. Bower"
+author = "Dr. Dan J. Bower"
 
 # The full version, including alpha/beta/rc tags
 release = "0.1.0"
@@ -59,7 +59,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 #
 # html_theme = "alabaster"
 html_theme = "sphinx_rtd_theme"
-html_logo = "logo200x200.png"
+html_logo = "build_better_software_logo200x200.png"
 html_context = {
     "display_github": True,
     "github_user": "ExPlanetology",
@@ -77,7 +77,7 @@ numfig = True
 
 pygments_style = "sphinx"
 
-latex_logo = "logo.png"
+latex_logo = "build_better_software_logo.png"
 # Disable the automatic inclusion of the Python module index in the LaTeX PDF output
 latex_domain_indices = False
 

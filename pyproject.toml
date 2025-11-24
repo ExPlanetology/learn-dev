@@ -1,7 +1,7 @@
 [project]
 name = "learn-dev"
 version = "0.1.0"
-description = "Principles of software development for scientists and researchers"
+description = "Build better software"
 authors = [
     {name = "Dan J Bower", email = "dbower@eaps.ethz.ch"}
 ]
