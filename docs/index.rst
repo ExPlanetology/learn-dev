@@ -24,6 +24,7 @@ https://github.com/ExPlanetology/learn-dev
    2_classes
    3_interfaces
    4_functional
+   5_refactoring
    epilogue
 
 .. toctree::
