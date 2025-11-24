@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/ExPlanetology/learn-dev/main/docs/logo.png" alt="learn-dev logo" width="300"/>
+<img src="https://raw.githubusercontent.com/ExPlanetology/learn-dev/main/docs/build_better_software_logo.png" alt="learn-dev logo" width="300"/>
 </p>
 
 # Build Better Software
