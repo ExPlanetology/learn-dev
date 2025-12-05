@@ -26,6 +26,7 @@ https://github.com/ExPlanetology/learn-dev
    4_functional
    5_refactoring
    epilogue
+   glossary
 
 .. toctree::
    :maxdepth: 2
