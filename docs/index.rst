@@ -10,6 +10,7 @@ https://github.com/ExPlanetology/learn-dev
 
 
 | Dr. Dan J. Bower
+| Senior Scientist
 | Institute of Geochemistry and Petrology
 | Department of Earth and Planetary Sciences
 | ETH Zurich, Switzerland
@@ -20,18 +21,21 @@ https://github.com/ExPlanetology/learn-dev
 
    prologue
    0_top_tips
-   1_preliminaries
    2_classes
    3_interfaces
    4_functional
    5_refactoring
    epilogue
-   glossary
+
+.. raw:: latex
+
+   \appendix
 
 .. toctree::
    :maxdepth: 2
-   :caption: Additional Reading
+   :caption: Appendices
 
+   glossary
    IDE_setup
    typing
    documentation
