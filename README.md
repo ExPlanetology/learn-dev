@@ -4,7 +4,7 @@
 
 # Build Better Software
 
-This collection introduces foundational principles of software development, specifically tailored for scientists and researchers. It provides practical guidance, best practices, and illustrative examples to help you develop effective, maintainable, and reproducible research software.
+This collection introduces foundational principles of software development, specifically tailored for scientists and researchers. It provides practical guidance and best practices to help you develop effective, maintainable, and reproducible research software.
 
 Whilst you're welcome to browse this repository directly, the materials are automatically compiled and published online in a complete, reader-friendly format. You can also download them as EPUB or PDF:
 
