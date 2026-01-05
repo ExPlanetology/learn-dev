@@ -25,6 +25,7 @@ https://github.com/ExPlanetology/learn-dev
    3_interfaces
    4_functional
    5_refactoring
+   6_writing_new_code
    epilogue
 
 .. raw:: latex
