@@ -18,6 +18,7 @@ https://github.com/ExPlanetology/learn-dev
 .. toctree::
    :maxdepth: 2
    :caption: Content
+   :numbered:
 
    prologue
    0_top_tips
