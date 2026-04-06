@@ -28,6 +28,7 @@ https://github.com/ExPlanetology/learn-dev
    5_refactoring
    6_writing_new_code
    7_jupyter_notebooks
+   8_testing
    epilogue
 
 .. toctree::
