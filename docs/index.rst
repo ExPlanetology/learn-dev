@@ -29,6 +29,12 @@ https://github.com/ExPlanetology/learn-dev
    6_writing_new_code
    epilogue
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Bonus
+
+   jax
+
 .. raw:: latex
 
    \appendix
